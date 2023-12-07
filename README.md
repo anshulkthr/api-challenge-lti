@@ -10,6 +10,8 @@ The project uses the following technologies:
 5. dotenv
 6. PostgresSQL (Docker Container)
 
+API Documentation: https://app.swaggerhub.com/apis/KOTHARIANSHUL1990/api-challenge/1.0.0
+
 ## How to keep API endpoint secure
 1. Use different roles for endpoint access/permissions. With assigned roles, different groups of users will only have access to use the endpoints that they are authorized to access. Additionally, authorization will use a standard such as OAuth 2.0.
 2. Use a firewall or API gateway to check for a valid identity of the user as well as an API rate limit to protect against overuse.
